@@ -337,7 +337,7 @@ bugreports:
  
   - summary: |
       17. Не очищаются заказы из корзины
-      environment: |
+    environment: |
       Версия 120.0.6099.200 (Официальная сборка), (64 бит)
       ОС Windows 10
     steps-to-reproduce: |
