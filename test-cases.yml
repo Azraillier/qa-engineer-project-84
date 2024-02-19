@@ -353,8 +353,8 @@
   prerequisites:
     Открыта главная страница магазина https://hexlet-products-store.vercel.app/
   test-data: |
-  От: = Qt$+-78
-  До: = Qt$+-78 
+    От: = Qt$+-78
+    До: = Qt$+-78 
   steps: 
     - Открыть страницу каталога
     - Ввести данные в поле
