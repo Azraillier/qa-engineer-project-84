@@ -332,4 +332,4 @@ bugreports:
       Поле "Цена" не меняет свой размер
     actual-result: |
       Поле "Цена" меняет размер длины  
-      Ошибка изображена на скриншоте screenshots/bug18_1.png, bug18_2.png
+      Ошибка изображена на скриншоте screenshots/bug18_1.png, bug18_2.png 
