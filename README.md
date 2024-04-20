@@ -10,11 +10,11 @@ Functional, non-functional, and implicit requirements for the final product
 ## test-cases.yml
 List of test cases for the developed requirements
 ## testing-report.yml
-Test case execution reports
+Testing-report for the developed test cases
 ## bugreports.yml
 Bug reports
 ## regress-report.yml
-Regression testing report based on the created test cases and bug reports
+Regression testing-report based on the created test cases and bug reports
 ## Bugreports folder
 Screenshots with visual representation of the identified bugs
 ### Hexlet tests and linter status:
